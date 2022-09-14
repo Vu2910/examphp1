@@ -19,9 +19,10 @@
                         <tr>
                             <th></th>
                             <th>MÃ LOẠI</th>
-                            <th>TÊN SẢN PHẨM</th>
+                            <th>TÊN Tours</th>
                             <th>HÌNH</th>
                             <th>GIÁ</th>
+                            <th>GT Tours</th>
                             <th>MÔ TẢ</th>
                             <th></th>
 
